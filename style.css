@@ -50,7 +50,7 @@ div button {
     transition: all 0.3s ease;
   }
 div button:hover {
-    background: #f50808;
+    background: rgba(236, 73, 32, 0);
     color: white;
 }
 
