@@ -5,3 +5,4 @@
 
  The ECS cluster is hosted on AWS in private subnets behind a load balancer. Route 53 is used to route traffic to the load balancer using an alias record. The application can be accessed from zmanim.danielweiskopf.com
 
+Update: This URL is no longer active
